@@ -7,7 +7,7 @@ async function bootstrap() {
     const app = await core_1.NestFactory.create(app_module_1.AppModule);
     const options = new swagger_1.DocumentBuilder()
         .setTitle('Products')
-        .setDescription('Simple CRUD for managing products')
+        .setDescription('Simple CRUD API for managing products')
         .setVersion('1.0')
         .addTag('products')
         .build();

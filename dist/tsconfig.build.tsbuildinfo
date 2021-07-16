@@ -1106,11 +1106,11 @@
         "signature": "e0e01013f40a172c13d53c88ce2695741df27852da7ede9e2e336c86c43c8ec5"
       },
       "../src/app.service.ts": {
-        "version": "eaf8514ce110fa428a93a27408df4d06d133dbd9ed0a775c315ddfdd507853a9",
+        "version": "5d4242d50092a353e5ab1f06663a89dbc714c7d9d70072ea03c83c5b14750f05",
         "signature": "d8f4cb0109c1b399d657807fd6af504d74a9300325e0fc915abdbf658b464a97"
       },
       "../src/app.controller.ts": {
-        "version": "260f889b9e2b69f77be1155348eb345166aec664b3efff6720053c6844a41f28",
+        "version": "0cace1f1b5af15174bccce7426f4775be9885f0452256093b0a0b91047bfada4",
         "signature": "3293b0d1d6a7f902316e164fcf36ae099f1bbb0224484586eaab30d9dea78d32"
       },
       "../node_modules/@nestjsx/crud-request/lib/exceptions/request-query.exception.d.ts": {
@@ -2398,7 +2398,7 @@
         "signature": "70aecfd981af29d74ba7ab6667b9cc2a53459d8eb099c139fd2aa54c3059c71d"
       },
       "../src/product/product.ts": {
-        "version": "1397d764029c6f2f78744dad69065a7d6d746800513595ed8d85c3e44d83ac33",
+        "version": "93641950c577a20d39a318be0a269517424953dc1d30ff6b07cf16056f5449f6",
         "signature": "d8f90e63f143da64564bba60f7d12e05a6173357e7953e78e9dc03da9e5f4af7"
       },
       "../node_modules/@nestjs/typeorm/dist/common/typeorm.decorators.d.ts": {
@@ -2450,19 +2450,19 @@
         "signature": "d7073880324319cfecc7f8139ccb9f947e161e29a7f6ea049d3bfb16a5af698b"
       },
       "../src/product/product.service.ts": {
-        "version": "1b26edb2c8f44274f210377a2ff9307dfddf66ced30730218eaf4d192f9c343e",
+        "version": "cfa20abc7fe21cd933695796bd941d13e25f84d72b500b23f050b678a757cf4c",
         "signature": "92162295e6e9b923f95f4e9780e7eda557b1f0bff0f1901098d1ed7fb292cd20"
       },
       "../src/product/product.controller.ts": {
-        "version": "e5eed48ce4892852ffb59f8e1e2c2b473fb4c6ce4bd28d586779208c373e3948",
+        "version": "3d2f355c0034f3ba08d8f099871fe28765d6d21db43b19c20f15e6d680cb601c",
         "signature": "2cbc11a8ae2a5dbf4747a05d977dd4300ae4539a8f6e90e1b130e8ef0fff1ef9"
       },
       "../src/product/product.module.ts": {
-        "version": "13ef3a087140c304d5e661efd83e834303a9224d10042d082323a4f4b45835bd",
+        "version": "0b0e15d1bfa19be6263a35d17d8b51813e8149bec08a240dea5bbaf5dd1ae364",
         "signature": "775682a30e63deb0ec3da028a66cf4cd3ae032d1b7d009697c8b9329465ef7f5"
       },
       "../src/app.module.ts": {
-        "version": "750c69d7101a31974c8de4e242056841b594c15504067acb1fb07e78f9d7fac5",
+        "version": "4a1f27a4385c8981b661fc74c2d87082a8e773dfa7bfbbc331e1bcc1bd697408",
         "signature": "9fc7f7b6ad854404973b8cba8e6d883f758237991968e9a3965d716d46f1da88"
       },
       "../node_modules/@nestjs/core/adapters/http-adapter.d.ts": {
@@ -2726,7 +2726,7 @@
         "signature": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f"
       },
       "../src/main.ts": {
-        "version": "5e5e390ba82eca50c8e0ceb7733abafa031bd369e004224b54b5658ddcbf9933",
+        "version": "285e66ac6bb23a5936635ac825a638445219c5fb22a133b039cddb3faba069b3",
         "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
       },
       "../node_modules/@types/anymatch/index.d.ts": {
